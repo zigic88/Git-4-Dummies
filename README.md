@@ -25,7 +25,7 @@ ex : **git clone git@github.com:zigic88/Git-4-Dummies.git**
 - **git branch -D [branch_name]"** command to delete branch.  
 - **git branch -m [old_branch_name] [new_branch_name]** command to rename branch name.
 
-#####Commit your project changes
+##Commit your project changes
 - After changes your project, then create staging for your changes.
 - **git add . **
 add all changes files
@@ -33,5 +33,5 @@ add all changes files
 only add sortFields.java file
 - **git commit -m "Add sort operation"**
 
-####Check your git project status
+###Check your git project status
 - **git status -s**
